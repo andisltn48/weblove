@@ -187,11 +187,6 @@ export default function RomanticPage() {
                 <source src="/mutia.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
-              <div className="absolute bottom-10 left-0 right-0 text-center bg-black/40 backdrop-blur-md py-4">
-                <p className="text-white text-3xl md:text-5xl animate-pulse drop-shadow-[0_2px_10px_rgba(255,117,143,0.5)]">
-                  terima kasih sudah selalu lucu
-                </p>
-              </div>
             </div>
           </div>
         )}
